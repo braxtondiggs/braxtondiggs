@@ -3,7 +3,7 @@
   <img align="left" alt="Braxton's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="http://instagram.com/biggdiggz">
-  <img align="left" alt="Bracton's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Braxton's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://reddit.com/user/BiggDiggz/">
   <img align="left" alt="Braxton's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
@@ -16,15 +16,15 @@
 
 <br />
 
-Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talanted Freelance Web & Mobile App Developer 🚀 based in Brooklyn, New York specializing in User Interface/Experience and Application Development.  I build clean, appealing, and functional interfaces which comply with the latest and greatest web standards.
+Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talanted Freelance Web & Mobile App Developer 🚀 based in Brooklyn, New York specializing in User Interface/Experience and Application Development. I build clean, appealing, and functional interfaces which comply with the latest and greatest web standards.
 
   <img align="right" alt="GIF" src="https://github.com/braxtondiggs/braxtondiggs/blob/master/coder.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Always aiming at **usability** and **code performance** at all costs.
+- 🧑‍💻 Always aiming at **usability** and **code performance** at all costs;
 - 🌱 I’m currently learning NestJS, TypeORM and Deno;
-- 🎮 Avid **video game player**, Currently playing Far Cry;
+- 🎮 Avid **video gamer**, Currently playing Far Cry;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](https://braxtondiggs.com/assets/resume/braxton-diggs.pdf)
 
