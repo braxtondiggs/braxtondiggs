@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talanted Freelance Web & Mobile App Developer 🚀 based in Brooklyn, New York specializing in User Interface/Experience and Application Development. I build clean, appealing, and functional interfaces which comply with the latest and greatest web standards.
+Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & Mobile App Developer 🚀 based in Brooklyn, New York specializing in User Interface/Experience and Application Development. I build clean, appealing, and functional interfaces which comply with the latest and greatest web standards.
 
   <img align="right" alt="GIF" src="https://github.com/braxtondiggs/braxtondiggs/blob/master/coder.gif?raw=true" width="500" height="320" />
   
