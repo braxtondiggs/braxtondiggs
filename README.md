@@ -47,15 +47,15 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 **🐱 My Github Data** 
 
-> 🏆 580 Contributions in the Year 2020
+> 🏆 581 Contributions in the Year 2020
  > 
-> 📦 524.0 kB Used in Github's Storage 
+> 📦 524.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories
+> 📜 30 Public Repositories
  > 
-> 🔑 12 Private Repositories 
+> 🔑 11 Private Repositories 
 
 **I'm an Early 🐤** 
 
