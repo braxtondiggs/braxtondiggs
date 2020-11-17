@@ -43,11 +43,11 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 583 Contributions in the Year 2020
+> 🏆 590 Contributions in the Year 2020
  > 
 > 📦 524.6 kB Used in Github's Storage 
  > 
@@ -60,17 +60,17 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
-🌆 Daytime    374 commits    ███████████████░░░░░░░░░░   62.75% 
-🌃 Evening    82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
+🌞 Morning    69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
+🌆 Daytime    377 commits    ███████████████░░░░░░░░░░   63.26% 
+🌃 Evening    83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.93% 
 🌙 Night      67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-Tuesday      168 commits    ███████░░░░░░░░░░░░░░░░░░   28.19% 
+Monday       94 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
+Tuesday      161 commits    ██████░░░░░░░░░░░░░░░░░░░   27.01% 
 Wednesday    114 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.13% 
 Thursday     104 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
 Friday       94 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
