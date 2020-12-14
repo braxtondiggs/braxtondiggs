@@ -49,7 +49,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 > 🏆 607 Contributions in the Year 2020
  > 
-> 📦 524.6 kB Used in Github's Storage 
+> 📦 524.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
