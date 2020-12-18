@@ -43,17 +43,17 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 612 Contributions in the Year 2020
+> 🏆 611 Contributions in the Year 2020
  > 
 > 📦 524.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 31 Public Repositories 
  > 
 > 🔑 11 Private Repositories  
  > 
@@ -84,14 +84,14 @@ Sunday       19 commits     ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.07% 
-TypeScript               3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   30.92% 
-PHP                      1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.84% 
-SCSS                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.29% 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.18%
+HTML                     4 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   37.26% 
+TypeScript               3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   30.12% 
+SCSS                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
+PHP                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.24%
 
 🔥 Editors: 
-VS Code                  10 hrs 34 mins      █████████████████████████   100.0%
+VS Code                  12 hrs 17 mins      █████████████████████████   100.0%
 
 ```
 
