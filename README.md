@@ -47,7 +47,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 **🐱 My Github Data** 
 
-> 🏆 624 Contributions in the Year 2020
+> 🏆 628 Contributions in the Year 2020
  > 
 > 📦 524.7 kB Used in Github's Storage 
  > 
@@ -84,14 +84,10 @@ Sunday       16 commits     ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   20 mins             ██████████████████████░░░   87.57% 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
