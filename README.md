@@ -43,11 +43,11 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 628 Contributions in the Year 2020
+> 🏆 653 Contributions in the Year 2020
  > 
 > 📦 524.7 kB Used in Github's Storage 
  > 
