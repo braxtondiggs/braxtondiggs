@@ -47,7 +47,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 12 Contributions in the Year 2021
  > 
 > 📦 524.7 kB Used in Github's Storage 
  > 
@@ -84,10 +84,12 @@ Sunday       16 commits     ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     20 mins             ████████████████░░░░░░░░░   67.4% 
+TypeScript               9 mins              ████████░░░░░░░░░░░░░░░░░   32.18% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  30 mins             █████████████████████████   100.0%
 
 ```
 
