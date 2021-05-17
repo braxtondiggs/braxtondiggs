@@ -43,11 +43,11 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,005 Contributions in the Year 2021
+> 🏆 1,011 Contributions in the Year 2021
  > 
 > 📦 530.0 kB Used in Github's Storage 
  > 
@@ -61,8 +61,8 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 ```text
 🌞 Morning    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
-🌆 Daytime    286 commits    █████████████░░░░░░░░░░░░   52.87% 
-🌃 Evening    106 commits    █████░░░░░░░░░░░░░░░░░░░░   19.59% 
+🌆 Daytime    284 commits    █████████████░░░░░░░░░░░░   52.5% 
+🌃 Evening    108 commits    █████░░░░░░░░░░░░░░░░░░░░   19.96% 
 🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.01%
 
 ```
@@ -72,10 +72,10 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 Monday       117 commits    █████░░░░░░░░░░░░░░░░░░░░   21.63% 
 Tuesday      110 commits    █████░░░░░░░░░░░░░░░░░░░░   20.33% 
 Wednesday    87 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
-Thursday     108 commits    █████░░░░░░░░░░░░░░░░░░░░   19.96% 
+Thursday     106 commits    █████░░░░░░░░░░░░░░░░░░░░   19.59% 
 Friday       80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
 Saturday     10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85% 
-Sunday       29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.36%
+Sunday       31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.73%
 
 ```
 
