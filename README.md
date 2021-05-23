@@ -47,7 +47,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 **🐱 My Github Data** 
 
-> 🏆 1,073 Contributions in the Year 2021
+> 🏆 1,075 Contributions in the Year 2021
  > 
 > 📦 530.3 kB Used in Github's Storage 
  > 
