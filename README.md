@@ -49,7 +49,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 > 🏆 1,397 Contributions in the Year 2021
  > 
-> 📦 531.4 kB Used in Github's Storage 
+> 📦 531.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -107,5 +107,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2021
+ Last Updated on 21/08/2021
 <!--END_SECTION:waka-->
