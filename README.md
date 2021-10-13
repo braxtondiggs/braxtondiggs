@@ -47,7 +47,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,592 Contributions in the Year 2021
+> 🏆 1,594 Contributions in the Year 2021
  > 
 > 📦 532.2 kB Used in GitHub's Storage 
  > 
@@ -66,12 +66,12 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 🌙 Night      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.51%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.1% 
-Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
-Wednesday    162 commits    █████░░░░░░░░░░░░░░░░░░░░   23.31% 
+Tuesday      98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.1% 
+Wednesday    160 commits    █████░░░░░░░░░░░░░░░░░░░░   23.02% 
 Thursday     162 commits    █████░░░░░░░░░░░░░░░░░░░░   23.31% 
 Friday       136 commits    █████░░░░░░░░░░░░░░░░░░░░   19.57% 
 Saturday     12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73% 
@@ -108,5 +108,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2021
+ Last Updated on 13/10/2021
 <!--END_SECTION:waka-->
