@@ -23,8 +23,8 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 **Talking about Personal Stuffs:**
 
 - 🧑‍💻 Always aiming at **usability** and **code performance** at all costs;
-- 🌱 I’m currently learning NestJS, TypeORM and Deno;
-- 🎮 Avid **video gamer**, Currently playing Far Cry;
+- 🌱 I’m currently learning NestJS, GraphQL and Deno;
+- 🎮 Avid **video gamer**, Currently playing horizon Forbidden West;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](https://braxtondiggs.com/assets/resume/braxton-diggs.pdf)
 
