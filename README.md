@@ -43,13 +43,13 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C853%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C858%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,063 Contributions in the Year 2022
+> 🏆 1,067 Contributions in the Year 2022
  > 
 > 📦 543.2 kB Used in GitHub's Storage 
  > 
@@ -59,6 +59,44 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
  > 
 > 🔑 10 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    115 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.49% 
+🌆 Daytime    618 commits    ██████████████░░░░░░░░░░░   56.39% 
+🌃 Evening    241 commits    █████░░░░░░░░░░░░░░░░░░░░   21.99% 
+🌙 Night      122 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.13%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       177 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
+Tuesday      165 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
+Wednesday    231 commits    █████░░░░░░░░░░░░░░░░░░░░   21.08% 
+Thursday     277 commits    ██████░░░░░░░░░░░░░░░░░░░   25.27% 
+Friday       191 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.43% 
+Saturday     23 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
+Sunday       32 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               10 hrs 27 mins      ████████████░░░░░░░░░░░░░   49.68% 
+TypeScript               5 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38% 
+PHP                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.14% 
+CSS                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.57% 
+JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.45%
+
+🔥 Editors: 
+VS Code                  21 hrs 2 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -72,5 +110,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 04:54:10 UTC
+ Last Updated on 15/09/2022 04:48:53 UTC
 <!--END_SECTION:waka-->
