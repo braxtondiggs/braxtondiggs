@@ -43,7 +43,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C032%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C034%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -51,7 +51,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 > 🏆 1,435 Contributions in the Year 2022
  > 
-> 📦 553.8 kB Used in GitHub's Storage 
+> 📦 554.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -86,15 +86,14 @@ Sunday       36 commits     ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               20 hrs 2 mins       ███████████████████░░░░░░   78.39% 
-TypeScript               2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.1% 
-HTML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.03% 
-JSON                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91% 
-YAML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
+JavaScript               17 hrs 47 mins      ███████████████████░░░░░░   78.34% 
+TypeScript               2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
+JSON                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27% 
+HTML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37% 
+YAML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
 
 🔥 Editors: 
-VS Code                  25 hrs 30 mins      █████████████████████████   99.79% 
-Zsh                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+VS Code                  22 hrs 42 mins      █████████████████████████   100.0%
 
 ```
 
@@ -111,5 +110,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2022 04:16:28 UTC
+ Last Updated on 05/12/2022 04:17:39 UTC
 <!--END_SECTION:waka-->
