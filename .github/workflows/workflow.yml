@@ -20,4 +20,4 @@ jobs:
           SHOW_PROJECTS: False
           SHOW_TIMEZONE: False
           SHOW_LOC_CHART: False
-          IGNORED_REPOS: "Function-Dev-Team/fob, Function-Dev-Team web-frontend"
+          IGNORED_REPOS: "Function-Dev-Team/fob, fob, web-frontend"
