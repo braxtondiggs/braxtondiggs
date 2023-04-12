@@ -43,7 +43,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C338%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C340%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.9%20million%20lines%20of%20code-blue)
 
@@ -51,7 +51,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 > 📦 565.0 kB Used in GitHub's Storage 
  > 
-> 🏆 536 Contributions in the Year 2023
+> 🏆 546 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -84,15 +84,15 @@ Sunday                   983 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 58 mins       █████████████████████░░░░   84.96 % 
-PHP                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-TypeScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-sh                       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+JavaScript               10 hrs 19 mins      ███████████████████░░░░░░   77.66 % 
+PHP                      1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+TypeScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 34 mins      █████████████████████████   98.54 % 
-Zsh                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+VS Code                  13 hrs 7 mins       █████████████████████████   98.71 % 
+Zsh                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,5 +108,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2023 04:11:11 UTC
+ Last Updated on 12/04/2023 04:09:40 UTC
 <!--END_SECTION:waka-->
