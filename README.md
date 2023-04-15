@@ -43,7 +43,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C342%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C345%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.9%20million%20lines%20of%20code-blue)
 
@@ -51,7 +51,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 > 📦 565.0 kB Used in GitHub's Storage 
  > 
-> 🏆 547 Contributions in the Year 2023
+> 🏆 556 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -84,15 +84,14 @@ Sunday                   983 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   40.53 % 
-PHP                      1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-YAML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+JavaScript               3 hrs 9 mins        ████████████░░░░░░░░░░░░░   47.19 % 
+PHP                      2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.39 % 
+YAML                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 28 mins       ████████████████████████░   96.97 % 
-Zsh                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+VS Code                  6 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,5 +107,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2023 04:09:10 UTC
+ Last Updated on 15/04/2023 04:08:59 UTC
 <!--END_SECTION:waka-->
