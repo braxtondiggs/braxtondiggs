@@ -43,7 +43,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C364%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C366%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.0%20million%20lines%20of%20code-blue)
 
@@ -51,7 +51,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 > 📦 565.6 kB Used in GitHub's Storage 
  > 
-> 🏆 622 Contributions in the Year 2023
+> 🏆 623 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -84,14 +84,14 @@ Sunday                   983 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.26 % 
-PHP                      2 hrs 42 mins       ███████████░░░░░░░░░░░░░░   44.60 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+JavaScript               3 hrs 43 mins       ██████████████░░░░░░░░░░░   54.55 % 
+PHP                      2 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -107,5 +107,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2023 04:11:28 UTC
+ Last Updated on 11/05/2023 04:09:21 UTC
 <!--END_SECTION:waka-->
