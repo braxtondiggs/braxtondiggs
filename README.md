@@ -43,7 +43,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C408%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C409%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.9%20million%20lines%20of%20code-blue)
 
@@ -84,14 +84,14 @@ Sunday                   983 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      4 hrs 58 mins       ██████████████░░░░░░░░░░░   56.09 % 
-JavaScript               3 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.58 % 
+PHP                      4 hrs 57 mins       ██████████████░░░░░░░░░░░   55.81 % 
+JavaScript               3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.87 % 
 Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -107,5 +107,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2023 04:09:08 UTC
+ Last Updated on 30/06/2023 04:09:11 UTC
 <!--END_SECTION:waka-->
