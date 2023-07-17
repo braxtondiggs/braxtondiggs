@@ -12,8 +12,6 @@
   <img align="left" alt="Braxton's soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=braxtondiggs.braxtondiggs)
-
 <br />
 
 Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & Mobile App Developer 🚀 based in Brooklyn, New York specializing in User Interface/Experience and Application Development. I build clean, appealing, and functional interfaces which comply with the latest and greatest web standards.
