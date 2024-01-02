@@ -82,11 +82,10 @@ Sunday                   1004 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 mins              ██████████████████████░░░   86.61 % 
-YAML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,5 +101,5 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2024 04:08:44 UTC
+ Last Updated on 02/01/2024 04:08:42 UTC
 <!--END_SECTION:waka-->
