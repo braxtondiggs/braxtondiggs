@@ -41,13 +41,11 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C711%20hrs%2044%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 572.6 kB Used in GitHub's Storage 
+> 📦 572.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -55,41 +53,6 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2175 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-🌆 Daytime                11568 commits       ██████████████░░░░░░░░░░░   56.08 % 
-🌃 Evening                4014 commits        █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-🌙 Night                  2869 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   3520 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Tuesday                  4252 commits        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Wednesday                4040 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Thursday                 4576 commits        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Friday                   2884 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Saturday                 415 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Sunday                   939 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               3 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   41.52 % 
-JSON                     2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-SCSS                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-TypeScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-TSConfig                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 45 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -103,5 +66,5 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2024 04:08:16 UTC
+ Last Updated on 11/04/2024 04:08:25 UTC
 <!--END_SECTION:waka-->
