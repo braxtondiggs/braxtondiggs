@@ -41,6 +41,8 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C725%20hrs%206%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -101,5 +103,5 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2024 04:22:28 UTC
+ Last Updated on 16/04/2024 04:08:22 UTC
 <!--END_SECTION:waka-->
