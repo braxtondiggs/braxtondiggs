@@ -49,8 +49,6 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 > 📦 573.5 kB Used in GitHub's Storage 
  > 
-> 🏆 15 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -82,12 +80,10 @@ Sunday                   965 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 24 mins        ████████████████████████░   95.84 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,5 +99,5 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2024 04:10:56 UTC
+ Last Updated on 27/07/2024 04:09:10 UTC
 <!--END_SECTION:waka-->
