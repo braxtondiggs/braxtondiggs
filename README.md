@@ -49,6 +49,8 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 > 📦 575.1 kB Used in GitHub's Storage 
  > 
+> 🏆 54 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -99,5 +101,5 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2024 04:10:23 UTC
+ Last Updated on 30/12/2024 04:10:42 UTC
 <!--END_SECTION:waka-->
