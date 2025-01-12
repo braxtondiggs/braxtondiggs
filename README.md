@@ -41,13 +41,15 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C040%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C041%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 575.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -103,5 +105,5 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2025 04:10:28 UTC
+ Last Updated on 12/01/2025 04:10:10 UTC
 <!--END_SECTION:waka-->
