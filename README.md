@@ -41,7 +41,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C197%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C199%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.6%20million%20lines%20of%20code-blue)
 
@@ -49,7 +49,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 > 📦 580.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 26 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -82,15 +82,15 @@ Sunday                   1002 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
-JSON                     6 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-JavaScript               5 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-HTML                     4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-SCSS                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+TypeScript               10 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   31.76 % 
+JSON                     6 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+JavaScript               6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+HTML                     4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+SCSS                     1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 34 mins      █████████████████████████   99.28 % 
-Cursor                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+VS Code                  33 hrs 7 mins       █████████████████████████   99.31 % 
+Cursor                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,5 +106,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/04/2025 04:09:51 UTC
+ Last Updated on 20/04/2025 04:09:51 UTC
 <!--END_SECTION:waka-->
