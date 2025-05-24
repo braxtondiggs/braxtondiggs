@@ -41,13 +41,15 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C333%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C340%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 582.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 77 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -80,14 +82,14 @@ Sunday                   1002 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 24 mins      ███████████░░░░░░░░░░░░░░   45.17 % 
-JavaScript               7 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-HTML                     3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-JSON                     2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-YAML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+TypeScript               16 hrs 16 mins      █████████████░░░░░░░░░░░░   52.63 % 
+JavaScript               6 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+YAML                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+JSON                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+HTML                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 53 mins      █████████████████████████   100.00 % 
+VS Code                  30 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,5 +105,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2025 04:10:58 UTC
+ Last Updated on 24/05/2025 04:10:28 UTC
 <!--END_SECTION:waka-->
