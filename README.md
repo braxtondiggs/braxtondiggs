@@ -1,16 +1,4 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-<a href="https://www.facebook.com/BiggDiggz">
-  <img align="left" alt="Braxton's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="http://instagram.com/biggdiggz">
-  <img align="left" alt="Braxton's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://reddit.com/user/BiggDiggz/">
-  <img align="left" alt="Braxton's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://soundcloud.com/braxton-diggs">
-  <img align="left" alt="Braxton's soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />
-</a>
 
 <br />
 
@@ -21,8 +9,9 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 **Talking about Personal Stuffs:**
 
 - 🧑‍💻 Always aiming at **usability** and **code performance** at all costs;
-- 🌱 I’m currently learning NestJS, GraphQL and Deno;
-- 🎮 Avid **video gamer**, Currently playing Travis Strikes Again: No More Heroes;
+- 🌱 I’m currently learning NestJS, BullMQ and NX Monorepos;
+- 🎮 Avid **video gamer**, Currently playing Doom: The Dark Ages
+;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](https://braxtondiggs.com/assets/resume/braxton-diggs.pdf)
 
