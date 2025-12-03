@@ -30,15 +30,15 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C718%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C718%20hrs%2037%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 605.7 kB Used in GitHub's Storage 
+> 📦 606.2 kB Used in GitHub's Storage 
  > 
-> 🏆 264 Contributions in the Year 2025
+> 🏆 268 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -46,41 +46,6 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2435 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-🌆 Daytime                13011 commits       ██████████████░░░░░░░░░░░   56.62 % 
-🌃 Evening                4456 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-🌙 Night                  3076 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   3900 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Tuesday                  4747 commits        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Wednesday                4476 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Thursday                 5000 commits        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Friday                   3267 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Saturday                 534 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Sunday                   1054 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-TypeScript               3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-JSON                     2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 43 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -94,5 +59,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2025 04:16:41 UTC
+ Last Updated on 03/12/2025 04:17:56 UTC
 <!--END_SECTION:waka-->
