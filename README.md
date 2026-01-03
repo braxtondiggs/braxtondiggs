@@ -30,8 +30,6 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C744%20hrs%2031%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.69%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -46,37 +44,6 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2439 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-🌆 Daytime                12968 commits       ██████████████░░░░░░░░░░░   56.40 % 
-🌃 Evening                4435 commits        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-🌙 Night                  3149 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   3921 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Tuesday                  4720 commits        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Wednesday                4509 commits        █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Thursday                 5011 commits        █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Friday                   3288 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Saturday                 486 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Sunday                   1056 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -90,5 +57,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 04:25:09 UTC
+ Last Updated on 03/01/2026 04:19:53 UTC
 <!--END_SECTION:waka-->
