@@ -30,7 +30,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C491%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C491%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.81%20million%20lines%20of%20code-blue?style=flat)
 
@@ -71,18 +71,18 @@ Sunday                   1968 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 48 mins      ███████████░░░░░░░░░░░░░░   44.76 % 
-JavaScript               10 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   30.27 % 
-Markdown                 2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-SCSS                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Other                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JavaScript               9 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.65 % 
+Other                    4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+TypeScript               2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+SCSS                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 3 mins       ████████████████░░░░░░░░░   63.63 % 
-Chrome                   4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Terminal                 3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-VS Code                  3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Figma                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Claude Code              11 hrs 16 mins      █████████████░░░░░░░░░░░░   53.77 % 
+Chrome                   4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Terminal                 3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+VS Code                  1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Figma                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,5 +98,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2026 06:54:52 UTC
+ Last Updated on 05/07/2026 07:30:41 UTC
 <!--END_SECTION:waka-->
