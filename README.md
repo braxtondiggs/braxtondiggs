@@ -71,18 +71,18 @@ Sunday                   1968 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.65 % 
-Other                    4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-TypeScript               2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-SCSS                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+JavaScript               8 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.75 % 
+Other                    4 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+SCSS                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+TypeScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 16 mins      █████████████░░░░░░░░░░░░   53.77 % 
-Chrome                   4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Terminal                 3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-VS Code                  1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Figma                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Claude Code              8 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.93 % 
+Chrome                   4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Terminal                 3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+VS Code                  1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Figma                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,5 +98,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2026 07:30:41 UTC
+ Last Updated on 06/07/2026 08:27:17 UTC
 <!--END_SECTION:waka-->
