@@ -30,7 +30,7 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C530%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C538%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.25%20million%20lines%20of%20code-blue?style=flat)
 
@@ -71,17 +71,17 @@ Sunday                   1806 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-TypeScript               5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Bash                     4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-JavaScript               2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Markdown                 1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Other                    9 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.46 % 
+TypeScript               7 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+Markdown                 3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+JavaScript               2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Bash                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 51 mins      ██████████████░░░░░░░░░░░   54.19 % 
-Terminal                 5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-Claude Code              4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-VS Code                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Chrome                   13 hrs 54 mins      ████████████░░░░░░░░░░░░░   48.04 % 
+Terminal                 7 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Claude Code              6 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+VS Code                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,5 +97,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2026 06:15:21 UTC
+ Last Updated on 19/07/2026 06:36:54 UTC
 <!--END_SECTION:waka-->
