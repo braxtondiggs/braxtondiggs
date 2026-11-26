@@ -30,15 +30,15 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7903%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7903%20hrs%2024%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80.91%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 635.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3,609 Contributions in the Year 2026
+> 🏆 3,610 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -49,21 +49,21 @@ Hi, I'm [Braxton Diggs](https://braxtondiggs.com/), a talented Freelance Web & M
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9080 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-🌆 Daytime                30728 commits       █████████████░░░░░░░░░░░░   51.43 % 
-🌃 Evening                14934 commits       ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-🌙 Night                  5009 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+🌞 Morning                9099 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+🌆 Daytime                30825 commits       █████████████░░░░░░░░░░░░   51.46 % 
+🌃 Evening                14949 commits       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+🌙 Night                  5029 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   10006 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Tuesday                  10854 commits       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Wednesday                10104 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Thursday                 10560 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Friday                   8848 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Saturday                 4141 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Sunday                   5238 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Monday                   10034 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Tuesday                  10889 commits       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Wednesday                10150 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Thursday                 10580 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Friday                   8865 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Saturday                 4142 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Sunday                   5242 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 ```
 
 
@@ -71,16 +71,16 @@ Sunday                   5238 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Typescript               21 hrs 49 mins      ███████████████░░░░░░░░░░   58.81 % 
-Markdown                 4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Html                     4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Javascript               1 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-SCSS                     1 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Typescript               17 hrs 42 mins      ███████████████░░░░░░░░░░   58.60 % 
+Markdown                 4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Html                     4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Text                     0 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+SCSS                     0 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-Claude                   23 hrs 15 mins      ████████████████░░░░░░░░░   62.66 % 
-Vs code                  13 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   37.00 % 
-Figma                    0 hrs 8 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Claude                   19 hrs 46 mins      ████████████████░░░░░░░░░   65.44 % 
+Vs code                  10 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   33.78 % 
+Figma                    0 hrs 14 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,5 +96,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on Nov 25, 2026 14:43 UTC
+ Last Updated on Nov 26, 2026 14:09 UTC
 <!--END_SECTION:waka-->
