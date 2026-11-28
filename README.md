@@ -71,16 +71,16 @@ Sunday                   5242 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Typescript               16 hrs 14 mins      ███████████████░░░░░░░░░░   59.78 % 
-Markdown                 4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Html                     3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Text                     0 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Python                   0 hrs 28 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Typescript               10 hrs 55 mins      ███████████████░░░░░░░░░░   58.39 % 
+Markdown                 3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Html                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Text                     0 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Python                   0 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-Claude                   18 hrs 14 mins      █████████████████░░░░░░░░   67.14 % 
-Vs code                  8 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   32.00 % 
-Figma                    0 hrs 14 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Claude                   12 hrs 10 mins      ████████████████░░░░░░░░░   65.06 % 
+Vs code                  6 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.69 % 
+Figma                    0 hrs 14 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,5 +96,5 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on Nov 27, 2026 14:09 UTC
+ Last Updated on Nov 28, 2026 13:15 UTC
 <!--END_SECTION:waka-->
